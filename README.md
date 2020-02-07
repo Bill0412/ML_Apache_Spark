@@ -9,3 +9,4 @@ Jupyter Notebook Archive for Scalable Machine Learning on Big Data with Apache S
 ## Week 2 - Experience Parallel Programming on Apache Spark
 - [Statistical Moments & Correlation](parallel_programming.ipynb): Averages, Standard Deviation, Skewness, Kurtosis, Covariance
 - [Simple Statistical Analysis Handson](a6_w2_ex1.ipynb) with Dataframe and SQL
+- [Guidance: Install PixieDust Kernel for Jupyter Notebook on Ubuntu 18.04 Server](https://kickstart.best/install-and-plot-with-pixiedust-jupyter-notebook-ubuntu-18-04-server/)
